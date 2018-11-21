@@ -1,0 +1,52 @@
+.thumbnail>img {
+    display: block;
+    max-width: 50%;
+    height: 200px;
+}
+.try{
+    display: flex;
+    flex-direction: row;
+}
+.footer{
+
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 24px;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height:5%;
+   background-color: #4286f4;
+   color: #ffffff;
+   text-align: center;
+
+}
+.header{
+    
+    text-decoration-line: none;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 18px;
+   position: fixed;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height:5%;
+   background-color: #421;
+   color: #a6c51988;
+   text-align: center;
+
+}
+.row1{
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+    style:none;
+}
+.footer  a{
+    text-decoration: underline;
+}
